@@ -947,7 +947,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
